@@ -12,7 +12,7 @@
 2. 创建H5应用，记录其`agent_id`，替换代码中对应部分。
 
 ## 文件目录结构
-sendmain
+sendmain    # 主目录
 
 ├── dingmsg.py  # 主程序
 ├── minini.py   # 全局变量
